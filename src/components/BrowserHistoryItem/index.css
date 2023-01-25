@@ -1,0 +1,41 @@
+.list-container {
+  list-style-type: none;
+}
+
+.history-container {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.time-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.logo-img {
+  height: 40px;
+  width: 60px;
+  padding-left: 20px;
+}
+
+.title-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.domain-para {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding-left: 20px;
+}
+
+.delete-button {
+  background-color: white;
+  border-width: 0px;
+  align-items: flex-end;
+}
